@@ -1,0 +1,12 @@
+{
+  "task": [{
+      "val":8,
+      "next":{
+          "val":0,
+          "next":{
+              "val":7,
+              "next":null
+          }
+      }
+  }]
+}
